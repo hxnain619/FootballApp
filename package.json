@@ -1,8 +1,7 @@
 {
   "name": "FootballApp",
   "version": "1.0.0",
-  "author": "hxnain619",
-  "main": "/public/index.html",
+  "private": true,
   "homepage": "https://hxnain619.github.io/FootballApp/",
   "scripts": {
     "serve": "live-server public/",
